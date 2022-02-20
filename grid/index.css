@@ -1,0 +1,12 @@
+.rd {
+
+}
+.container {
+    display: grid;
+    grid-template-columns: 200px 150px 20% 1fr;
+}
+
+.el3 {
+    grid-column-start: 3;
+    grid-column-end: 5;
+}
