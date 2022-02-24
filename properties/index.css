@@ -1,0 +1,186 @@
+.simples { 
+    align-content: flex-end;
+    align-items:baseline;
+    align-self: center;
+    animation-delay: 0s
+}
+
+.animacao {
+    animation-direction:alternate;
+    animation-duration: 0ms;
+    animation-fill-mode:backwards;
+    animation-iteration-count:inherit;
+    animation-name:none;
+    animation-play-state:running;
+    animation-timing-function:cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    animation:cubic-bezier(0.23, 1, 0.320, 1);
+}
+
+.backgrounds {
+    background-attachment:fixed;
+    -webkit-background-clip: content-box;
+    background-clip:content-box;
+    background-color:aqua;
+    background-image:-moz-repeating-linear-gradient();
+    background-origin:padding-box;
+    background-position:0ch;
+    background-repeat:repeat-x;
+    background-size:contain;
+    background:scroll;
+}
+
+.borders {
+    border-bottom-color: aqua;
+    border-bottom-left-radius:0ch;
+    border-bottom-right-radius:0em;
+    border-bottom-style:double;
+    border-bottom-width:0ex;
+    border-bottom:0cm;
+    border-collapse:collapse;
+    border-color:blueviolet;
+    border-left-color:beige;
+    border-left-style:dotted;
+    border-left-width:0pt;
+    border-left:0cm;
+    border-radius:0vmax;
+    border-right-color:cadetblue;
+    border-right-style:dashed;
+    border-right-width:0em;
+    border-right:0cm;
+    border-style:0in;
+    border-top-color:bisque;
+    border-top-left-radius:0em;
+    border-top-right-radius:0ch;
+    border-top-style:dotted;
+    border-top-width:unset;
+    border-top:0cm;
+    border-width:0cm;
+    border:0cm;
+    bottom:0pt;
+}
+
+
+
+
+positioning
+box-shadow
+box-sizing
+clear
+color
+column-count
+column-gap
+column-width
+content
+cursor
+
+.displayflex{
+    display:flex;
+    flex-basis:auto;
+    flex-direction:row;
+    flex-flow:wrap;
+    flex-grow:initial;
+    flex-shrink:inherit;
+    flex-wrap:wrap;
+}
+
+
+
+
+
+
+
+
+
+float
+font-family
+font-size
+font-style
+font-variant
+font-weight
+font
+
+grid-area
+grid-auto-columns
+grid-auto-flow
+grid-auto-rows
+grid-column-end
+grid-column-gap
+grid-column-start
+grid-column
+grid-gap
+grid-row-end
+grid-row-gap
+grid-row-start
+grid-row
+grid-template-areas
+grid-template-columns
+grid-template-rows
+grid-template
+grid
+height
+justify-content
+
+
+left
+positioning
+letter-spacing
+line-height
+list-style-image
+list-style-position
+list-style-type
+list-style
+margin-bottom
+margin-left
+margin-right
+margin-top
+margin
+max-height
+max-width
+min-height
+min-width
+mix-blend-mode
+opacity
+order
+
+
+outline-color
+outline-style
+outline-width
+outline
+overflow-wrap
+overflow-x
+overflow-y
+overflow
+padding-bottom
+padding-left
+padding-right
+padding-top
+padding
+pointer-events
+position
+positioning
+resize
+right
+positioning
+text-align
+text-decoration
+text-indent
+text-overflow
+text-shadow
+text-transform
+top
+positioning
+transform-origin
+transform
+transition-delay
+transition-duration
+transition-property
+transition-timing-function
+transition
+vertical-align
+white-space
+width
+will-change
+word-break
+word-spacing
+z-index

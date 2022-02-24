@@ -1,0 +1,83 @@
+.class{text-align: center;}
+.name1.name2{
+    text-align: center;
+}
+.name1 .name2{
+    text-align: center;
+}
+#id{
+    text-align: center;
+}
+*{
+    text-align: center;
+}	
+p{
+    text-align: center;
+}
+p.class{
+    text-align: center;
+}
+p, p{
+    text-align: center;
+}
+p p{
+    text-align: center;
+}
+p>p{
+    text-align: center;
+}
+p+p{
+    text-align: center;
+}
+p~a{
+    
+}
+/* 
+[attribute]	[target]	
+[attribute=value]	[target=_blank]	
+[attribute~=value]	[title~=flower]	
+[attribute|=value]	[lang|=en]	
+[attribute^=value]	a[href^="https"]	
+[attribute$=value]	a[href$=".pdf"]	
+[attribute*=value]	a[href*="w3schools"]	
+:active	a:active	
+::after	p::after	Insert something after the content of each <p> p
+::before	p::before	Insert something before the content of each <p> p
+:checked	input:checked	
+:default	input:default	
+:disabled	input:disabled	
+:empty	p:empty	
+:enabled	input:enabled	
+:first-child	p:first-child	
+::first-letter	p::first-letter	
+::first-line	p::first-line	
+:first-of-type	p:first-of-type	
+:focus	input:focus	
+:fullscreen	:fullscreen	
+:hover	a:hover	
+:in-range	input:in-range	
+:indeterminate	input:indeterminate	
+:invalid	input:invalid	
+:lang(language)	p:lang(it)	
+:last-child	p:last-child	
+:last-of-type	p:last-of-type	
+:link	a:link	
+::marker	::marker	
+:not(selector)	:not(p)	
+:nth-child(n)	p:nth-child(2)	
+:nth-last-child(n)	p:nth-last-child(2)	
+:nth-last-of-type(n)	p:nth-last-of-type(2)	
+:nth-of-type(n)	p:nth-of-type(2)	
+:only-of-type	p:only-of-type	
+:only-child	p:only-child	
+:optional	input:optional	
+:out-of-range	input:out-of-range	
+::placeholder	input::placeholder	
+:read-only	input:read-only	
+:read-write	input:read-write	
+:required	input:required	
+:root	:root	
+::selection	::selection	
+:target	#news:target	
+:valid	input:valid	
+:visited	a:visited	 */
